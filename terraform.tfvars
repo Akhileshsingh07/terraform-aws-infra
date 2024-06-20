@@ -1,0 +1,6 @@
+ami_value = "ami-0f58b397bc5c1f2e8"
+instance_type_value = "t2.micro"
+cidr_block-vpc-1 = "10.1.0.0/16"
+cidr_block-pub-subnet = "10.1.1.0/24"
+pub-subnet-availability_zone = "ap-south-1a"
+rt-pub1-cidr_block = "0.0.0.0/0"
